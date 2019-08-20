@@ -2,34 +2,45 @@
 
 ---
 
-### Category Name 1 
+### Galeria Projektów
 
-[Project 1 Title](/sample_page)
+[Beginner Web Developer](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Golden](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Nulla Maximus](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Pressing Fingers](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Responsive Layout](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Blog](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Projekty
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- [Beginner Web Developer](https://thewizard0f0z.github.io/Beginner-Web-Developer/)
+- [Golden](https://thewizard0f0z.github.io/Golden/)
+- [Nulla Maximus](https://thewizard0f0z.github.io/Nulla-maximus/)
+- [Pressing Fingers](https://thewizard0f0z.github.io/Pressing-Fingers-website/)
+- [Responsive Layout](https://thewizard0f0z.github.io/Responsive-layout/)
+- [Blog](https://thewizard0f0z.github.io/javascript-blog/)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+
+
+
+---

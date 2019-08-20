@@ -24,7 +24,7 @@
 <img src="images/responsive_layout.png?raw=true"/>
 
 ---
-[Blog](https://thewizard0f0z.github.io/javascript-blog/)
+[Blog JS](https://thewizard0f0z.github.io/javascript-blog/)
 <img src="images/blog.png?raw=true"/>
 
 ---
@@ -36,7 +36,7 @@
 - [Nulla Maximus](https://thewizard0f0z.github.io/Nulla-maximus/)
 - [Pressing Fingers](https://thewizard0f0z.github.io/Pressing-Fingers-website/)
 - [Responsive Layout](https://thewizard0f0z.github.io/Responsive-layout/)
-- [Blog](https://thewizard0f0z.github.io/javascript-blog/)
+- [Blog JS](https://thewizard0f0z.github.io/javascript-blog/)
 
 ---
 

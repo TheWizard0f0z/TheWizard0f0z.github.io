@@ -2,7 +2,7 @@
 
 ---
 
-### Galeria Projektów
+### Galeria Prac
 
 [Beginner Web Developer](https://thewizard0f0z.github.io/Beginner-Web-Developer/)
 <img src="images/beginner_web_developer.png?raw=true"/>
@@ -30,7 +30,7 @@
 ---
 
 
-### Projekty
+### Prace
 
 - [Beginner Web Developer](https://thewizard0f0z.github.io/Beginner-Web-Developer/)
 - [Golden](https://thewizard0f0z.github.io/Golden/)

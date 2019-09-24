@@ -24,8 +24,12 @@
 <img src="images/responsive_layout.png?raw=true"/>
 
 ---
-[Blog JS](https://thewizard0f0z.github.io/javascript-blog/)
+[Blog](https://thewizard0f0z.github.io/javascript-blog/)
 <img src="images/blog.png?raw=true"/>
+
+---
+[Pizzeria](https://warm-ocean-21786.herokuapp.com/)
+<img src="images/pizzeria.png?raw=true"/>
 
 ---
 
@@ -37,7 +41,8 @@
 - [Nulla Maximus](https://thewizard0f0z.github.io/Nulla-maximus/)
 - [Pressing Fingers](https://thewizard0f0z.github.io/Pressing-Fingers-website/)
 - [Responsive Layout](https://thewizard0f0z.github.io/Responsive-layout/)
-- [Blog JS](https://thewizard0f0z.github.io/javascript-blog/)
+- [Blog](https://thewizard0f0z.github.io/javascript-blog/)
+- [Pizzeria](https://warm-ocean-21786.herokuapp.com/)
 
 ---
 

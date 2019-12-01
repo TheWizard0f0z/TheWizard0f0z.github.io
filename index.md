@@ -32,6 +32,10 @@
 <img src="images/pizzeria.png?raw=true"/>
 
 ---
+[Administration panel](https://thewizard0f0z.github.io/Administration-panel/)
+<img src="images/admin_panel.png?raw=true"/>
+
+---
 
 
 ### Prace
@@ -43,6 +47,7 @@
 - [Responsive Layout](https://thewizard0f0z.github.io/Responsive-layout/)
 - [Blog](https://thewizard0f0z.github.io/javascript-blog/)
 - [Pizzeria](https://warm-ocean-21786.herokuapp.com/)
+- [Administration panel](https://thewizard0f0z.github.io/Administration-panel/)
 
 ---
 
